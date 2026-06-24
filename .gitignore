@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Internal / generated logs
+output.txt
+_notebook_run_report.txt
+*.log
+
+# Large dataset (216 MB — regenerate via EDA notebook)
+fake_news_eda_preprocessed.csv
+
+# Duplicate non-RTL installation guide (RTL version is in repo)
+FakeNews_Installation_Guide.docx
+
+# IDE
+.idea/
+.vscode/
+*.swp

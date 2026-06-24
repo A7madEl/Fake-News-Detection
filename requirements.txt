@@ -1,0 +1,6 @@
+# Fake News Detection — Streamlit demo
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
